@@ -1,0 +1,7 @@
+Writing a good commit is important.
+The perfect commit message is made out of
+    1. subject= concise summary of what happened.
+    2. Body= more detailed explanation.
+        - what is now different than before?
+        - what's the reason for the change?
+        - Is there anything to watch out for / anything particularly remarkable?
